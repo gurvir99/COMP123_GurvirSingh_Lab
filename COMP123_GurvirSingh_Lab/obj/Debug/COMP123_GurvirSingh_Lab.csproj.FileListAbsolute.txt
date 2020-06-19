@@ -1,0 +1,13 @@
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab\COMP123_GurvirSingh_Lab\bin\Debug\COMP123_GurvirSingh_Lab.exe.config
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab\COMP123_GurvirSingh_Lab\bin\Debug\COMP123_GurvirSingh_Lab.exe
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab\COMP123_GurvirSingh_Lab\bin\Debug\COMP123_GurvirSingh_Lab.pdb
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.csprojAssemblyReference.cache
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.exe
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.pdb
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\bin\Debug\COMP123_GurvirSingh_Lab.exe.config
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\bin\Debug\COMP123_GurvirSingh_Lab.exe
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\bin\Debug\COMP123_GurvirSingh_Lab.pdb
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.csprojAssemblyReference.cache
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.exe
+C:\Users\Arshvir\Desktop\guri college\semester 2\programming 2\COMP123_GurvirSingh_Lab - Copy\COMP123_GurvirSingh_Lab\obj\Debug\COMP123_GurvirSingh_Lab.pdb
